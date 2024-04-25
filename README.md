@@ -1,8 +1,6 @@
 # Population-Prediction-System
 
-Application Link: https://tulasinnd-population-prediction-system-population-app-x6rrby.streamlit.app/
-
-
+Application Link: https://world-population-analysis.streamlit.app/
 Skills Required: Python, ML, Streamlit, Pandas, Sklearn
 
 This code is a population prediction system that uses polynomial regression to predict the population of a selected country for a given year. The code imports two datasets: "Countries_Population_final.csv" which contains the population data of various countries from 1960 to 2021, and "Countries_names.csv" which contains the names of the countries.
