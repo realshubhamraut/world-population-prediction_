@@ -1,6 +1,6 @@
 # Population-Prediction-System
 
-Application Link: https://world-population-analysis.streamlit.app/
+Application Link: https://world-population-predicted.streamlit.app/
 ---
 
 ### Skills Required: Python, ML, Streamlit, Pandas, Sklearn
