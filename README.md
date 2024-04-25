@@ -2,7 +2,6 @@
 
 Application Link: https://tulasinnd-population-prediction-system-population-app-x6rrby.streamlit.app/
 
-Application Demo Video Link: https://www.linkedin.com/posts/tulasi-n-49b6111b0_population-prediction-system-view-application-activity-7036599665772957696-Jc1X?utm_source=share&utm_medium=member_desktop
 
 Skills Required: Python, ML, Streamlit, Pandas, Sklearn
 
