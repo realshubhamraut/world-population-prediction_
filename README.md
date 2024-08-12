@@ -2,6 +2,8 @@
 
 Application Link: https://world-population-predicted.streamlit.app/
 ---
+![ad](https://github.com/user-attachments/assets/c5e1eeb6-3838-45cc-8198-21481b1b7350)
+---
 
 ### Skills Required: Python, ML, Streamlit, Pandas, Sklearn
 
@@ -12,7 +14,5 @@ The code uses Streamlit to create a dashboard interface where the user selects a
 The predicted population and the previous year's population data are also plotted using Plotly. The predicted population for the given year is represented by a star on the plot.
 
 The code requires the following libraries to be installed: pandas, numpy, scikit-learn, streamlit, plotly, and numerize.
-
-
-
+---
 
